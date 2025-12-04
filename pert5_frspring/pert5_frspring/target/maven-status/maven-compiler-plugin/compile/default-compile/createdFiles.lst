@@ -1,0 +1,4 @@
+com\mycompany\pert5_frspring\model\ModelMahasiswa.class
+com\mycompany\pert5_frspring\Pertemuan5SpringBootApplication.class
+com\mycompany\pert5_frspring\repository\MahasiswaRepository.class
+com\mycompany\pert5_frspring\controller\MahasiswaController.class
